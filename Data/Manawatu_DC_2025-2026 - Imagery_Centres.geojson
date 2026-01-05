@@ -11,7 +11,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Project": "PGRM",
+                "Project": "PGRM3299",
                 "Proj_Name": "Manawatu DC Urban Imagery 25-26",
                 "Survey_Typ": "Imagery",
                 "OrthoGSD_m": "10cm"
